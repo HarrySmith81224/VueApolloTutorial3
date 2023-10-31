@@ -111,7 +111,6 @@ This layered architecture makes front-end development efficient and maintainable
 
 
 
-![image1](../../../../../images/Slide13.jpg)
 
 Of course, everything has its advantages and disadvantages, and the combination of Apollo, vue, and graphQL is no exception. 
 

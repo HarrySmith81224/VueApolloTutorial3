@@ -20,14 +20,9 @@
 
 title: Vue Apollo Tutorial
 email: your-email@example.com
-description: "Group N - Zheng Qiao"
-                        "Xin Guo"
-                        "Yuxuan Chen"
-                        "Harry Smith"
+description: >- Group N - Zheng Qiao, Xin Guo, Yuxuan Chen, Harry Smith
 baseurl: "/VueApolloTutorial3"
 url: "https://HarrySmith81224.github.io/"
-twitter_username: HarrySmith81224
-github_username:  HarrySmith81224
 
 # Build settings
 theme: minima

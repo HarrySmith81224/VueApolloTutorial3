@@ -62,7 +62,7 @@ First of all in this example we can see that this is a Vue.js component. It retr
 ---------------------------------------------------------
 This section is the template part: if an error occurs while retrieving data, an error message will be displayed. Loading... will be displayed while waiting for data. .When the data arrives, list the names of the roles. When the data arrives, list the names of the roles. 
 
-![image1](../images/Slide8-1.jpg)
+![image1](../images/Slide8-1.JPG)
 
 ---------------------------------------------------------
 We imported the required libraries and components in the script section and defined a GraphQL query named CHARACTERS_QUERY that requests role information. The setup function is used in Vue 3's Composition API to set up the component's reactive data. It uses the useQuery function to execute a CHARACTERS_QUERY query and returns the result, loading, and error variables.

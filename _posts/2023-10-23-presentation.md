@@ -67,7 +67,7 @@ This section is the template part: if an error occurs while retrieving data, an 
 ---------------------------------------------------------
 We imported the required libraries and components in the script section and defined a GraphQL query named CHARACTERS_QUERY that requests role information. The setup function is used in Vue 3's Composition API to set up the component's reactive data. It uses the useQuery function to execute a CHARACTERS_QUERY query and returns the result, loading, and error variables.
 
-![image1](../images/Slide8-2.jpg)
+![image1](../images/Slide8-2.JPG)
 
 
 
@@ -75,20 +75,20 @@ We imported the required libraries and components in the script section and defi
 
 ---------------------------------------------------------
 Here we first import a series of modules and components related to Vue 3 and Apollo client.
-![image1](../images/Slide9-1.jpg)
+![image1](../images/Slide9-1.JPG)
 
 ---------------------------------------------------------
 Then create an Apollo InMemoryCache cache instance named cache and an Apollo client instance 
-![image1](../images/Slide9-2.jpg)
+![image1](../images/Slide9-2.JPG)
 
 ---------------------------------------------------------
 A Vue application instance (app) is created using the createApp function. 
-![image1](../images/Slide9-3.jpg)
+![image1](../images/Slide9-3.JPG)
 
 ---------------------------------------------------------
 Finally, mount the Vue application on the DOM element with id 'app' using app.mount('#app') to launch the application.
 
-![image1](../images/Slide9-4.jpg)
+![image1](../images/Slide9-4.JPG)
 
 
 

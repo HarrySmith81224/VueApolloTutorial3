@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vue Apollo Tutorial
 description: >- # this means to ignore newlines until "baseurl:"
 Group N - Zheng Qiao
           Xin Guo
@@ -26,7 +25,6 @@ Group N - Zheng Qiao
           Harry Smith
 baseurl: "/VueApolloTutorial3"
 url: "https://HarrySmith81224.github.io"
-github_username:  HarrySmith81224
 
 # Build settings
 theme: minima

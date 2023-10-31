@@ -6,7 +6,7 @@ categories: vue apollo
 ---
 For this presentation our group studied how Apollo, Vue.js and GraphQL work together and connect with each other in web applications.
 
-![image1](../images/Slide1.jpg)
+![image1](../../../../images/Slide1.jpg)
 
 
 

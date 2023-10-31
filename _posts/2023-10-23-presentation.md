@@ -129,11 +129,11 @@ the combination of the three has four main advantages: flexibility, reactivity, 
 # Next are the disadvantages:
 ![image1](../../../../../images/Slide16.jpg)
 
-The first is complexity: a steeper learning curve than traditional REST and state management. 
+The first is complexity: a steeper learning curve than traditional REST and state management. Some tasks are more complicated to do in graphql despite having the same outcome.
 
-The second is over-fetching/under-fetching: incorrect GraphQL queries can lead to inefficiencies. 
+The second is over-fetching/under-fetching: Overfetching is fetching more data than is going to be used, underfetching is not having enough data to call an endpoint, forcing the user to call a second time. incorrect GraphQL queries can lead to inefficiencies and performance issues. 
 
-Finally, there’s the initial setup: For beginners, setting up the Apollo client with Vue can be cumbersome.
+Finally, there’s the initial setup: For beginners, setting up the Apollo client with Vue can be cumbersome. It is also more resource intensive than REST.
 
 ---------------------------------------------------------
 # Finally, there are examples, reference notes, and tutorial guides that our group discussed and researched.
